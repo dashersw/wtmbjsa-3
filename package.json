@@ -1,0 +1,13 @@
+{
+  "name": "wtmbjsa-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dark-sky": "^1.1.2",
+    "public-ip": "^2.4.0"
+  }
+}
